@@ -13,6 +13,8 @@ CAMUS：https://www.creatis.insa-lyon.fr/Challenge/camus/
 
 链接: https://pan.baidu.com/s/1iZhg2OGWYWCYRlWog9FIkA?pwd=mj84 提取码: mj84 
 
+use google drive:
+https://drive.google.com/drive/folders/1seqbDqnvYJ7gaHE4W6FW_A9no-aJor3P?usp=drive_link
 
 ## 3、train and test
 
