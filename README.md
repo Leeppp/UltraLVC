@@ -1,4 +1,4 @@
-<img width="73" height="20" alt="image" src="https://github.com/user-attachments/assets/1647ed6b-d41b-4ea7-9a89-c1bc1e466f28" /># UltraLVC: Decoder-Synchronized Progressive Entropy Modeling for Lossless Ultrasound Video Coding
+# UltraLVC: Decoder-Synchronized Progressive Entropy Modeling for Lossless Ultrasound Video Coding
 
 ## 1、dataset：
 HMC-QU：https://www.kaggle.com/datasets/aysendegerli/hmcqu-dataset
