@@ -11,6 +11,7 @@ CAMUS：https://www.creatis.insa-lyon.fr/Challenge/camus/
 
 ##  2、experiments
 
+链接: https://pan.baidu.com/s/1iZhg2OGWYWCYRlWog9FIkA?pwd=mj84 提取码: mj84 
 
 
 ## 3、train and test
