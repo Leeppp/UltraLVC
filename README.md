@@ -5,6 +5,10 @@ HMC-QU：https://www.kaggle.com/datasets/aysendegerli/hmcqu-dataset
 
 SYS：https://drive.google.com/drive/folders/0B5LimsUgYY7ifjRfLUtxb1FRZ2ZXcHN0a0oyeFFUaXdyT2xBMDRpclZES0dTMS1uTXk3VjA?usp=sharing
 
+or
+
+https://drive.google.com/drive/folders/0B5LimsUgYY7ifjRfLUtxb1FRZ2ZXcHN0a0oyeFFUaXdyT2xBMDRpclZES0dTMS1uTXk3VjA?resourcekey=0-YbkTKEBLZGKZWox0L66Qiw&usp=drive_link
+
 CAMUS：https://www.creatis.insa-lyon.fr/Challenge/camus/
 
 链接: https://pan.baidu.com/s/1FgIlCszQ0G0DjjgjnaZNZQ?pwd=bnad 提取码: bnad 
@@ -15,7 +19,7 @@ CAMUS：https://www.creatis.insa-lyon.fr/Challenge/camus/
 
 use google drive:
 https://drive.google.com/drive/folders/1seqbDqnvYJ7gaHE4W6FW_A9no-aJor3P?usp=drive_link
-
+https://drive.google.com/drive/folders/1seqbDqnvYJ7gaHE4W6FW_A9no-aJor3P?usp=sharing
 ## 3、train and test
 
 `python train_rec_BCM.py   --data_dir ./dataset  --dataset HMC-QU/ --crop_size 128 --hidden_unit 64 --lr 1e-4   --epochs 3000    --experiment_name HMC-QU-max  --weights model_HMC-QU-max.pth   --gpu_num 0   --decay_step 1000   --save_every 4    --print_every 1   --batch_size 16`
