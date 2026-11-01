@@ -18,5 +18,7 @@ CAMUS：https://www.creatis.insa-lyon.fr/Challenge/camus/
 `python train_rec_BCM.py   --data_dir ./dataset  --dataset HMC-QU/ --crop_size 128 --hidden_unit 64 --lr 1e-4   --epochs 3000    --experiment_name HMC-QU-max  --weights model_HMC-QU-max.pth   --gpu_num 0   --decay_step 1000   --save_every 4    --print_every 1   --batch_size 16`
 
 encode:
-  python encode_rec_BCM.py --gpu_num=0 --data_dir ./dataset  --dataset HMC-QU/ --crop_size 128 --hidden_unit 64 --lr 1e-4 --experiment_name HMC-QU-max   --weights model_HMC-QU-max.pth
+  `python encode_rec_BCM.py --gpu_num=0 --data_dir ./dataset  --dataset HMC-QU/ --crop_size 128 --hidden_unit 64 --lr 1e-4 --experiment_name HMC-QU-max   --weights model_HMC-QU-max.pth`
 
+decode:
+`python encode_rec_BCM.py --gpu_num=0 --data_dir ./dataset  --dataset HMC-QU/ --crop_size 128 --hidden_unit 64 --lr 1e-4 --experiment_name HMC-QU-max   --weights model_HMC-QU-max.pth`
